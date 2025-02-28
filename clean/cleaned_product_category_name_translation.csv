@@ -1,0 +1,72 @@
+product_category_name,product_category_name_english,supercategory
+beleza_saude,health_beauty,Personal Care
+informatica_acessorios,computers_accessories,Electronics
+automotivo,auto,Automotive
+cama_mesa_banho,bed_bath_table,Home & Garden
+moveis_decoracao,furniture_decor,Home & Garden
+esporte_lazer,sports_leisure,Sports & Leisure
+perfumaria,perfumery,Personal Care
+utilidades_domesticas,housewares,Home & Garden
+telefonia,telephony,Electronics
+relogios_presentes,watches_gifts,Other
+alimentos_bebidas,food_drink,Food & Beverage
+bebes,baby,Personal Care
+papelaria,stationery,Other
+tablets_impressao_imagem,tablets_printing_image,Other
+brinquedos,toys,Entertainment
+telefonia_fixa,fixed_telephony,Electronics
+ferramentas_jardim,garden_tools,Home & Garden
+fashion_bolsas_e_acessorios,fashion_bags_accessories,Fashion
+eletroportateis,small_appliances,Other
+consoles_games,consoles_games,Entertainment
+audio,audio,Other
+fashion_calcados,fashion_shoes,Fashion
+cool_stuff,cool_stuff,Other
+malas_acessorios,luggage_accessories,Other
+climatizacao,air_conditioning,Other
+construcao_ferramentas_construcao,construction_tools_construction,Home & Garden
+moveis_cozinha_area_de_servico_jantar_e_jardim,kitchen_dining_laundry_garden_furniture,Other
+construcao_ferramentas_jardim,costruction_tools_garden,Other
+fashion_roupa_masculina,fashion_male_clothing,Fashion
+pet_shop,pet_shop,Other
+moveis_escritorio,office_furniture,Other
+market_place,market_place,Other
+eletronicos,electronics,Electronics
+eletrodomesticos,home_appliances,Electronics
+artigos_de_festas,party_supplies,Other
+casa_conforto,home_confort,Other
+construcao_ferramentas_ferramentas,costruction_tools_tools,Other
+agro_industria_e_comercio,agro_industry_and_commerce,Other
+moveis_colchao_e_estofado,furniture_mattress_and_upholstery,Other
+livros_tecnicos,books_technical,Other
+casa_construcao,home_construction,Other
+instrumentos_musicais,musical_instruments,Entertainment
+moveis_sala,furniture_living_room,Other
+construcao_ferramentas_iluminacao,construction_tools_lights,Other
+industria_comercio_e_negocios,industry_commerce_and_business,Other
+alimentos,food,Food & Beverage
+artes,art,Other
+moveis_quarto,furniture_bedroom,Other
+livros_interesse_geral,books_general_interest,Other
+construcao_ferramentas_seguranca,construction_tools_safety,Other
+fashion_underwear_e_moda_praia,fashion_underwear_beach,Fashion
+fashion_esporte,fashion_sport,Fashion
+sinalizacao_e_seguranca,signaling_and_security,Other
+pcs,computers,Other
+artigos_de_natal,christmas_supplies,Other
+fashion_roupa_feminina,fashio_female_clothing,Other
+eletrodomesticos_2,home_appliances_2,Electronics
+livros_importados,books_imported,Other
+bebidas,drinks,Food & Beverage
+cine_foto,cine_photo,Other
+la_cuisine,la_cuisine,Other
+musica,music,Other
+casa_conforto_2,home_comfort_2,Other
+portateis_casa_forno_e_cafe,small_appliances_home_oven_and_coffee,Other
+cds_dvds_musicais,cds_dvds_musicals,Other
+dvds_blu_ray,dvds_blu_ray,Other
+flores,flowers,Other
+artes_e_artesanato,arts_and_craftmanship,Other
+fraldas_higiene,diapers_and_hygiene,Other
+fashion_roupa_infanto_juvenil,fashion_childrens_clothes,Fashion
+seguros_e_servicos,security_and_services,Other
