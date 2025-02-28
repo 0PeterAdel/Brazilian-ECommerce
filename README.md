@@ -177,5 +177,5 @@ This project is licensed under the MIT License. See the LICENSE file (or add one
 
 ## Contact
 
-For questions or feedback, reach out via (Portfolio_Contact)[peteradel.netlify.app].
+For questions or feedback, reach out via [Portfolio_Contact](https://peteradel.netlify.app/).
 
